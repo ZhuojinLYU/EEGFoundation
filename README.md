@@ -1,0 +1,1 @@
+The EEGFoundation Model introduces a novel neuro-semantic tokenization approach that transforms EEG signals into interpretable neural-language representations, overcoming limitations of traditional image-based methods through temporal pre-training and spatiotemporal attention mechanisms.​​
