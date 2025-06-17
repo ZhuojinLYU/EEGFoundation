@@ -1,3 +1,5 @@
+# Code adapted from CBraMod repository: https://github.com/wjq-learning/CBraMod
+
 import os
 import random
 
